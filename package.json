@@ -7,6 +7,23 @@
     "mysql2": "^2.3.3"
   },
   "scripts": {
-    "test": "jest"
-  }
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "name": "employee-tracker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breenud39/Employee-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breenud39/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/breenud39/Employee-Tracker#readme"
 }
